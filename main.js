@@ -1,4 +1,4 @@
 let x = document.getElementById("dx");
 x.onclick = function(){
-     alert('你好');
+  alert('你好');
 }
